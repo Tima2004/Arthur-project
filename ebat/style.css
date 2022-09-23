@@ -1,0 +1,161 @@
+body {
+    margin: 0%;
+}
+
+header {
+    background: #EEEFF1;
+}
+
+.nav_had {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.nav_had li {
+    display: inline;
+    width: 150px;
+}
+
+.cap_had {
+    padding-top: 3%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.second_object {
+    margin-top: 11%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.text_first {
+    width: 540px;
+    color: #727272;
+}
+
+.prime_button {
+    width: 225px;
+    height: 65px;
+    background: #34547A;
+}
+
+.first_block {
+    height: 700px;
+}
+
+.second_block {
+    height: 366px;
+}
+
+.text_second {
+    width: 540px;
+    color: #727272;
+}
+
+.center_text {
+    padding-top: 5%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.third_block {
+    background: #34547A;
+    height: 250px;
+}
+
+.projects-40 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+    height: 100%;
+}
+
+.projects-40 img {
+    color: aliceblue;
+    display: inline;
+    width: 150px;
+}
+
+.fourth_block {
+    height: 653px;
+}
+ 
+.fourth_block img {
+    width: 555px;
+    height: 450px;
+}
+
+.fourth_block_object {
+    padding-top: 102px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+.fifth_block {
+    background: #EEEFF1;
+    height: 1004px;
+}
+
+.text_third {
+    width: 540px;
+}
+
+.fifth_block img {
+    width: 1110px;
+    height: 600px;
+}
+
+.img-rectangle {
+    padding-top: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.microsoft_imgs {
+    height: 292px;
+}
+
+.microsoft_imgs img {
+    width: 255px;
+    height: 120px;
+}
+
+.img_table {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.img_table img {
+    border-radius: 0px;
+    width: 25%;
+    height: 25%;
+
+}
+
+.seventh_block {
+    background-color: #EEEFF1;
+    height: 762px;
+}
+
+.text_fourth {
+    width: 540px;
+}
+
+.eighth_block {
+    background-color: #34547A;
+    height: 151px;
+}
